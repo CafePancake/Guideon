@@ -1,0 +1,61 @@
+Son golem apparition:
+Roche:
+Cracking Earthquake (cracking soil, cracking stone) by uagadugu -- https://freesound.org/s/222521/ --
+
+Son damage et attaque: 
+stone_slab1.wav by NistuGgner -- https://freesound.org/s/700535/ -- License: Creative Commons 0
+
+
+UI:
+Son bouton
+Interface Sounds Starter Packs by p0ss -- https://opengameart.org/content/interface-sounds-starter-pack -- (fichier: appear-online)
+
+Son toggle inventaire
+Interface Sounds Starter Packs by p0ss -- https://opengameart.org/content/interface-sounds-starter-pack -- (fichier: dustbin)
+
+UI Accept or Foward by ViRiX (David McKee) -- https://opengameart.org/content/ui-accept-or-forward --
+
+Positive Sound by EZduzziteh -- https://opengameart.org/content/positive-sound --
+
+
+Sorts:
+Feu:
+Fireball by Julien Matthey -- https://opengameart.org/content/fireball-1 --
+
+Eau:
+Teleport Spell by Ogrebane -- https://opengameart.org/content/teleport-spell --
+
+Terre:
+Earth Spell - ryusa : https://freesound.org/people/ryusa/sounds/531093/
+
+Air:
+Dash - Artix :https://freesound.org/people/ArTiX.0/sounds/742717/
+
+
+Perso:
+
+Hit: Voice Clip Pack - Male Adenturer RPG -- https://opengameart.org/content/voice-clip-pack-male-adventurer-rpg (fichier: hurt4)
+
+Jump - pekena_larva : https://freesound.org/people/pekena_larva/sounds/667290/
+
+Dash - Artix :https://freesound.org/people/ArTiX.0/sounds/742717/
+
+Game Over - Voice Clip Pack - Male Adenturer RPG -- https://opengameart.org/content/voice-clip-pack-male-adventurer-rpg (fichier: death0)
+
+Son stèle placer emblême:
+Push Stone Boulder (Yo Frankie!)
+by Blender Foundation (sumitted by Lamoot)
+https://opengameart.org/content/push-stone-boulder-yo-frankie
+
+Son marche:
+Footsteps_Stiletto_Stone_Walk04.wav by marb7e -- https://freesound.org/s/620346/ -- License: Attribution 4.0
+
+Son portail:
+Idle:
+Ambient Portal Hum - Once Upon a Time in the 1970s by shiversmedia -- https://freesound.org/s/254131/ -- License: Attribution 4.0
+
+Passage:
+Ethereal Teleport by Breviceps -- https://freesound.org/s/466829/ -- License: Creative Commons 0
+
+Son item pickup:
+Interface Sounds Starter Packs by p0ss -- https://opengameart.org/content/interface-sounds-starter-pack -- (fichier: appear-online)
